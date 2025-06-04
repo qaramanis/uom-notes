@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "6cd4240d77069afa",
+    "type": "split",
+    "children": [
+      {
+        "id": "47ed9aa2eeff89d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d998f441bcbd0ac",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85639978c45726a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "01be34c0729e7541",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fce1a7e096eda7b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f0f9ed92e7b14212",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6be00a58ff4fb33f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "ec7e1721809659b1",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 364.5
+  },
+  "right": {
+    "id": "7b21d8884806f3bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5625318e5b8a2afe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51df1e7da0c94935",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "class Room.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for class Room"
+            }
+          },
+          {
+            "id": "7dfb274fef8f6a25",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "class Room.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from class Room"
+            }
+          },
+          {
+            "id": "1894f12fcc79a27a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dbd9d6d990619816",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "class Room.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of class Room"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fce1a7e096eda7b6",
+  "lastOpenFiles": [
+    "Ασφάλεια Πληροφοριών και Συστημάτων (ISS)/Notes - Διαλέξεις/Διάλεξη 01 - Εισαγωγικές Έννοιες.md",
+    "Ασφάλεια Πληροφοριών και Συστημάτων (ISS)/Notes - Διαλέξεις/Διάλεξη 02 - Κυβερνοασφάλεια.md",
+    "Ασφάλεια Πληροφοριών και Συστημάτων (ISS)/Διαλέξεις.md",
+    "Ασφάλεια Πληροφοριών και Συστημάτων (ISS)/PDF - Διαλέξεις/ISS-02.pdf",
+    "Ασφάλεια Πληροφοριών και Συστημάτων (ISS)/PDF - Διαλέξεις/ISS-01.pdf",
+    "Ασφάλεια Πληροφοριών και Συστημάτων (ISS)/PDF - Διαλέξεις/ISS-09.pdf",
+    "Ασφάλεια Πληροφοριών και Συστημάτων (ISS)/Notes - Διαλέξεις",
+    "Ασφάλεια Πληροφοριών και Συστημάτων (ISS)/PDF - Διαλέξεις/ISS-10.pdf",
+    "Ασφάλεια Πληροφοριών και Συστημάτων (ISS)/PDF - Διαλέξεις/ISS-08.pdf",
+    "Ασφάλεια Πληροφοριών και Συστημάτων (ISS)/PDF - Διαλέξεις/ISS-07.pdf",
+    "Ασφάλεια Πληροφοριών και Συστημάτων (ISS)/PDF - Διαλέξεις/ISS-04.pdf",
+    "Ασφάλεια Πληροφοριών και Συστημάτων (ISS)/PDF - Διαλέξεις/ISS-06.pdf",
+    "Ασφάλεια Πληροφοριών και Συστημάτων (ISS)/PDF - Διαλέξεις/ISS-03.pdf",
+    "Ασφάλεια Πληροφοριών και Συστημάτων (ISS)/Παλιά Θέματα.md",
+    "README.md",
+    "Untitled.canvas",
+    "class Room.md",
+    "class Player.md",
+    "class Main.md"
+  ]
+}
