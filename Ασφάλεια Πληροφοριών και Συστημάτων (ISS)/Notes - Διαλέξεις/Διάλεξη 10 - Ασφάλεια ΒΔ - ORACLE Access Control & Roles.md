@@ -1,3 +1,4 @@
+#ΔΙΑΛΕΞΗ #ISS
 # Ασφάλεια ΒΔ: ORACLE Access Control & Roles 
 ## Αρχείο PDF [[ISS-09.pdf]] ![[ISS-09.pdf]]
 # Βασικοί Όροι
