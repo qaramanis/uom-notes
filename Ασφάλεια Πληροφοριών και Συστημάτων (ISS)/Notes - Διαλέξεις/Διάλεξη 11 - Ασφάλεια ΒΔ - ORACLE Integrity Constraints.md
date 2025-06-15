@@ -1,4 +1,3 @@
-#ΔΙΑΛΕΞΗ #ISS
 # Ασφάλεια ΒΔ: ORACLE Integrity Constraints
 
 ## Αρχέιο PDF [[ISS-10.pdf|εδώ]] ![[ISS-10.pdf]]
